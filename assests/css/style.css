@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+header
+{
+    color: azure;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+}
+ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li{
+     display: inline;
+     float: none;
+     padding-left: 70px;
+}
+li:hover 
+{
+    color: aquamarine;
+}
