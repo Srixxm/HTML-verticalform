@@ -293,5 +293,55 @@ color: black;
  
     font-family: 'Roboto', sans-serif;
 }
-
-
+.image
+{
+    position: absolute;
+    top: 15px;
+    left: 80px;
+}
+.pic
+{
+    position: absolute;
+    top: 250px;
+    right: 250px;
+}
+.vpi
+{
+    position: absolute;
+    top: 145px;
+    right: 8%;
+}
+.textt
+{
+    position: absolute;
+    top: 145px;
+    right: 350px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.text
+{
+    position: absolute;
+    top: 300px;
+    right: 150px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+#log1
+{
+    position: absolute;
+    bottom: 140px;
+    left: 390px;
+}
+#log2
+{
+    position: absolute;
+    bottom: 140px;
+    left: 420px;
+}
+#log3
+{
+    position: absolute;
+    bottom: 140px;
+    left: 450px;
+}
